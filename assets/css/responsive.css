@@ -112,6 +112,9 @@
 .place-your-ord-sect .col-xl-5.ps-5{
     padding-left: 10px !important;
 }
+   .place-your-ord-sect .col-lg-6.ps-5{
+    padding-left: 0px !important;
+}
 .read-testimonial-sect {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -664,3 +667,4 @@
      }
 
  }
+
