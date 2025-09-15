@@ -1,0 +1,662 @@
+@media (max-width: 991px) {
+   .h1-head{
+    font-size: 25px !important;
+   }
+   .h2-head{
+    font-size: 30px !important;
+   }
+   /*====== home page css  */
+   .header-btn {
+    margin-left: 0px;
+}
+.header-btn .place-ord-btn {
+    max-width: 193px;
+}
+.hero-section .top-baner .left-item {
+    padding-top: 0px;
+}
+.hero-section .top-baner .left-item .h1-head{
+    text-align: center;
+    font-size: 25px;
+    line-height: 28px;
+}
+.hero-section .top-baner .left-item .our-p {
+    margin: auto;
+    text-align: center;
+}
+.hero-section .top-baner .left-item .d_flex {
+    justify-content: center;
+}
+.hero-section .top-baner .left-item .d_flex-two {
+    justify-content: center;
+}
+.hero-section .top-baner .left-item .d_flex-two .item {
+   justify-content: center;
+}
+
+.hero-sect-form form .tow-btn-row .col-lg-6{
+    padding-bottom: 10px;
+}
+.hero-section .top-baner .right-item .hero-img {
+    max-width: 500px;
+    display: block;
+    margin: auto;
+}
+.student-university-sect {
+    padding-bottom: 0px !important;
+}
+.home-p-our-services .show-more-item-cont .row:last-child {
+    margin-top: 0px;
+}
+.home-p-our-services .show-more-item-cont .row .col-lg-3 {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.home-p-our-services .show-more-item-cont .row .col-lg-3 .item{
+   width: 100%;
+   max-width: 300px;
+}
+.home-p-our-services .contain-two .h2-head{
+   text-align: center;
+}
+.our-completed-project-sect .left-item .iner-item {
+  min-height: 200px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.our-completed-project-sect .right-item .item-image {
+   display: block;
+   max-width: 500px;
+   margin: auto;
+}
+.meet-our-expert-sect {
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.meet-our-expert-sect .wraper {
+    margin-top: 10px;
+}
+.meet-our-expert-sect .our-satisfaction-cont .item.ptop {
+    margin-top: 0px;
+}
+.meet-our-expert-sect .our-satisfaction-cont .item {
+   margin-top: 0px;
+   margin-bottom: 15px;
+}
+.meet-our-expert-sect .uni-images-div ul {
+   margin-bottom: 15px;
+}
+.place-your-ord-sect .left-item img {
+    display: block;
+    margin: auto !important;
+}
+.place-your-ord-sect .right-item {
+    padding-top: 20px;
+}
+.place-your-ord-sect .right-item .h2-head {
+    margin: auto;
+    text-align: center;
+}
+.place-your-ord-sect .right-item .para-sty {
+    margin: auto;
+    text-align: center;
+}
+.place-your-ord-sect .right-item{
+    padding-bottom: 30px;
+}
+.place-your-ord-sect .right-item .btn-div {
+    justify-content: center;
+}
+.place-your-ord-sect .col-xl-5.ps-5{
+    padding-left: 10px !important;
+}
+.read-testimonial-sect {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.place-your-ord-sect .left-item, .place-your-ord-sect .right-item {
+    padding-top: 20px;
+}
+.read-testimonial-sect .first-row .left-item .h2-head{
+   text-align: center;
+}
+.read-testimonial-sect .first-row .left-item .para-sty{
+    text-align: center;
+ }
+ .read-testimonial-sect .first-row .left-item .btn-div{
+    text-align: center;
+    padding-bottom: 10px;
+ }
+ .our-subject-sect {
+    padding: 10px 0px 20px;
+}
+.our-subject-sect .row.row-two {
+    margin-top: 0px;
+}
+.our-subject-sect .item {
+   margin-bottom: 10px;
+}
+.our-subject-sect .container .btn-div {
+    padding-top: 0px;
+}
+.order-on-assign-sect .wraper{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.order-on-assign-sect .wraper .left-item img {
+    margin: auto;
+}
+.order-on-assign-sect .wraper .right-item h2 {
+   margin: auto;
+    margin-top: 10px;
+}
+.order-on-assign-sect .wraper .right-item .two-btn-div {
+     justify-content: center;
+    margin-top: 20px;
+}
+.order-on-assign-sect .wraper .right-item .two-btn-div .order-now-btn {
+    margin-left: 0px;
+}
+
+    .read-testimonial-sect .left-item .item-image{
+       display: block;
+       max-width: 500px;
+       margin: auto;
+       margin-bottom: 15px;
+    }
+    /* ====end home page  */
+
+   
+
+    /* services page  */
+    .academic-writing-feat-sect {
+        padding: 10px 5px;
+    }
+    .academic-writing-feat-sect .container {
+        margin-top: 15px;
+    }
+    .why-we-best-sect .h2-head {
+        padding-top: 10px;
+    }
+    .claim-your-offer-sect {
+       padding-top: 20px !important;
+       padding-bottom: 20px !important;
+    }
+    .claim-your-offer-sect .left-item .h2-head {
+        font-weight: 500 !important;
+        text-align: center;
+    }
+    .claim-your-offer-sect .left-item .para-sty {
+        max-width: none;
+        margin: auto;
+        text-align: center;
+    }
+    .claim-your-offer-sect .right-item h1 {
+        max-width: none;
+        text-align: center;
+        font-size: 30px;
+      font-weight: 500;
+      padding-top: 10px;
+    }
+    .claim-your-offer-sect .enter-your-whatsp-no-div {
+        width: 100%;
+        max-width: none;
+        margin-top: 20px;
+    }
+    /* end services page  */
+    /* start contact us page  */
+    .contact-us-hero-sect .contact-us-form-wraper {
+        margin-top: 0px;
+    }
+    .contact-us-hero-sect .contact-us-form-wraper form .contact-info-bg-wraper {
+       border-radius: 0px ;
+       margin-bottom: 15px;
+    }
+    .contact-us-hero-sect form .right-wraper label {
+        padding-bottom: 3px;
+    }
+    .contact-us-hero-sect form .right-wraper .row.m_top {
+        margin-top: 0px;
+    }
+    .contact-us-hero-sect form .right-wraper .col-lg-6 .item{
+      margin-bottom: 15px;
+    }
+    .contact-us-hero-sect form .right-wraper .send-msg-btn {
+        margin: auto !important;
+        margin-top: 20px !important;
+    }
+    /* end contact us page  */
+
+    /*start pricing page  */
+    .pricing-hero-sect .pricing-top-wraper .left-baner .h1-head{
+        text-align: center;
+    }
+    .pricing-hero-sect .pricing-top-wraper .left-baner .h1-head span {
+        line-height: 30px;
+    }
+    .pricing-hero-sect .pricing-top-wraper {
+        margin-top: 0px;
+    }
+    .pricing-hero-sect .pricing-top-wraper .left-baner .para-sty {
+        margin: auto;
+    }
+    .pricing-hero-sect .pricing-top-wraper .left-baner .pr-her-top-row .col-lg-6{
+        display: flex;
+        justify-content: center;
+    }
+    .pricing-and-plans-sect .row:last-child {
+        padding-top: 0px;
+    }
+
+    .pricing-and-plans-sect .col-lg-4 {
+        padding-top: 30px !important;
+    }
+    /* end pricing page  */
+
+    /* order now page  */
+    .order-nw-hero-sect .order-now-top-wraper .left-baner h1 {
+        font-size: 30px;
+      text-align: center;
+    }
+    .order-nw-hero-sect .order-now-top-wraper {
+        padding: 20px 0px 0px 0px;
+    }
+    .order-nw-hero-sect .order-now-top-wraper .left-baner p {
+        max-width: 466px;
+        margin: auto;
+        text-align: center;
+    }
+    .order-nw-hero-sect .order-now-top-wraper .right-baner img {
+        margin: auto;
+    }
+    .personal-detail-form-sect .right-image-div img {
+        
+        display: block;
+        margin: auto;
+    }
+    .personal-detail-form-sect .wraper form .add-material-text input {
+       width: 100%;
+    }
+}
+
+@media (max-width: 1206px) {
+  
+
+    /* start pricing page  */
+    .pricing-and-plans-sect{
+        padding-bottom: 0px;
+    }
+    .pricing-hero-sect .pricing-top-wraper .left-baner .d_flex-two {
+        flex-direction: column;
+        align-items: center;
+ 
+     }
+     .pricing-hero-sect .pricing-top-wraper .left-baner .d_flex-two .item {
+         margin-top: 10px;
+        margin-bottom: 10px;
+     }
+     .pricing-and-plans-sect .tab-content .item{
+        margin-bottom: 40px;
+     }
+    /* end pricing page  */
+}
+@media (max-width: 1200px) {
+    /*====== home page css  */
+    .hero-section {
+        background-image: url(/assets/images/hero-sect-bg.png);
+        background-size: contain !important;
+        background-position: top !important;
+        padding-bottom: 30px;
+    }
+    .elevate-section .car-wraper .right-item .info-content ul li {
+       flex-direction: column;
+    }
+    .read-testimonial-sect .right-item #talented-team .carousel-item .exper-inf-cont .row{
+        flex-direction: column;
+    }
+    .place-your-ord-sect .form-col .right-wraper .send-msg-btn{
+        margin: auto;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        
+    }
+    /* end home page  */
+
+    /* start aboout us page ===== */
+  .about-us-hero-sect .left-item{
+    text-align: center;
+  }
+  .about-us-hero-sect .left-item .our-p{
+    max-width: none !important;
+  }
+  .about-us-hero-sect .top-baner .left-item .d_flex-two{
+      justify-content: center;
+  }
+  .about-us-hero-sect .top-baner .right-item .hero-img {
+    display: block;
+    max-width: 500px;
+    margin: auto;
+}
+    /* end about us page ==== */
+
+   /* start pricing page  */
+   .satisfactory-sect {
+    min-height: 400px;
+    padding: 20px 0px;
+    margin-bottom: 40px;
+}
+   /* end pricing page  */
+
+  
+ }
+ @media only screen and (max-width: 1200px) and (min-width: 991px)  {
+    /* start services page  */
+ .claim-your-offer-sect .enter-your-whatsp-no-div .get-on-ofer-whatsp-btn-div button {
+    font-size: 14px !important;
+}
+.claim-your-offer-sect .enter-your-whatsp-no-div .get-on-ofer-whatsp-btn-div button i {
+    font-size: 30px;
+}
+   /* end services page  */
+ }
+
+ @media  (max-width: 533px)  {
+    /* start services page  */
+    .claim-your-offer-sect .enter-your-whatsp-no-div {
+        flex-direction: column;
+        max-width: 340px;
+        margin: auto !important;
+        border-radius: 0px !important;
+    }
+    .claim-your-offer-sect .enter-your-whatsp-no-div input{
+       border-radius: 0px;
+       margin-bottom: 10px;
+    }
+   /* end services page  */
+   /* contact us page  */
+   .works-together-sect .oranges-btns-group {
+   flex-direction: column;
+   align-items: center;
+}
+.works-together-sect .oranges-btns-group .btn{
+    margin-top: 15px;
+ }
+ .works-together-sect .full-lenght {
+  display: none;
+}
+   /* end contact us page  */
+ }
+
+ @media (max-width: 768px) {
+    .h1-head{
+        font-size: 20px !important;
+    }
+    .h2-head{
+        font-size: 27px !important;
+    }
+    /*====== home page css  */
+    .hero-section .top-baner .left-item .d_flex-two {
+        flex-direction: column;
+        align-items: center;
+    }
+    .hero-section .top-baner .left-item .d_flex-two .item {
+        margin-top: 10px;
+     }
+     .elevate-section {
+       padding-left: 5px;
+       padding-right: 5px;
+    }
+     .elevate-section .car-wraper .item {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .home-p-our-services .off-content .left-item .off {
+        font-size: 35px;
+        padding-top: 10px;
+    }
+    .order-on-assign-sect .wraper .right-item .two-btn-div {
+        flex-direction: column;
+    }
+    .order-on-assign-sect .wraper .right-item .two-btn-div .order-now-btn {
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 15px;
+    }
+    .get-assign-now-footer{
+        text-align: center;
+    }
+    .get-assign-now-footer .ftr-logo-cont .ftr-logo {
+        display: inline-block;
+        margin: auto;
+    }
+    .get-assign-now-footer .ftr-logo-cont p {
+        line-height: 20px;
+       margin: auto;
+       text-align: center;
+    }
+    .get-assign-now-footer .ftr-logo-cont .img-div {
+        justify-content: center;
+    }
+    .get-assign-now-footer .ft-right-col .conctact-ul li {
+        justify-content: center;
+    }
+    .home-p-our-services .show-more-item-cont .nav-tabs {
+        border: none;
+        justify-content: center;
+       align-items: center;
+    }
+    .home-p-our-services .contain-two .two-btn-div {
+        flex-direction: column;
+        align-items: center;
+    }
+    .home-p-our-services .contain-two .two-btn-div .chat-on-whatsapp-btn {
+        margin-right: 0px;
+        margin-bottom: 10px !important;
+    }
+    .place-your-ord-sect .right-item .btn-div {
+        flex-direction: column;
+        align-items: center;
+    }
+    .place-your-ord-sect .right-item .chat-on-whatsapp-btn {
+        margin-right: 0px;
+    }
+    .place-your-ord-sect .form-col .right-wraper{
+   max-width: 500px;
+   margin: auto;
+}
+    .read-testimonial-sect .first-row .left-item .btn-div .btn{
+        margin-bottom: 10px;  
+    }
+    
+    .meet-our-expert-sect #demo .carousel-item .d_flex .left-item .master {
+       text-align: center;
+    }
+    /*===== end home page css  */
+
+    /* services page  */
+    .academic-writing-feat-sect .content-item {
+       flex-direction: column;
+       align-items: center;
+       text-align: center;
+       margin-bottom: 20px;
+    }
+    /* end services page  */
+
+     /* start pricing page  */
+   .satisfactory-sect {
+   background-size: contain;
+   background-position: top;
+   background-repeat: no-repeat;
+}
+.satisfactory-sect .three-img-div {
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+}
+.satisfactory-sect .three-img-div img {
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+.satisfactory-sect .h2-head  {
+    text-align: center;
+}
+.satisfactory-sect .two-btn-div {
+    justify-content: center;
+}
+   /* end pricing page  */
+   /* about us page ==== */
+   .why-chose-us-sect .right-item .iner-item {
+   max-width: 300px;
+   margin: auto;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+.why-chose-us-sect .right-item .iner-item .iner-item-img {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.why-chose-us-sect {
+    padding: 30px 0px;
+}
+.why-chose-us-sect .right-item .iner-item .link {
+    max-width: none;
+}
+   /* end about us page === */
+ }
+ @media (max-width: 600px) {
+    /*==== home page css  */
+    .student-university-sect .owl-carousel .item{
+        margin: auto !important;
+    }
+    .our-portfolio-tabs-sect .nav-tabs{
+      flex-direction: column;
+      align-items: center;
+     }
+ }
+ @media (max-width: 500px) {
+    /*===== home page css  */
+    .meet-our-expert-sect #demo .carousel-item .d_flex {
+       flex-direction: column;
+       align-items: center;
+    }
+    .meet-our-expert-sect #demo .carousel-item .d_flex .left-item .img-div img{
+        display: block;
+        margin: auto;
+     }
+     .meet-our-expert-sect #demo .carousel-item .d_flex .right-item ul li {
+        text-align: center;
+    }
+    .meet-our-expert-sect #demo {
+       min-height: 430px;
+    }
+        .read-testimonial-sect .right-item .carousel-item .two-btn-div {
+           flex-direction: column;
+        }
+        .read-testimonial-sect .right-item .carousel-item .two-btn-div .btn{
+             margin: 0px;
+             max-width: 300px;
+             margin: auto;
+             margin-top: 10px;
+         }
+
+         /* end home page  */
+
+         /* start order now page  */
+         .personal-detail-form-sect .wraper form .two-btn-div {
+           flex-direction: column;
+           align-items: center;
+        }
+        
+        .personal-detail-form-sect .wraper form .submit-order-btn-div button {
+           margin-top: 30px !important;
+
+        }
+        /* end order now page  */
+ }
+ @media (max-width: 450px) {
+    /*==== home page css  */
+    .meet-our-expert-sect .uni-images-div ul {
+       flex-direction: column;
+       align-items: center;
+     }
+     .meet-our-expert-sect .uni-images-div ul li{
+       margin-bottom: 10px !important;
+      }
+      .meet-our-expert-sect .uni-images-div ul li img {
+        margin-right: 0px;
+    }
+    .our-completed-project-sect .two-btn-div{
+        flex-direction: column;
+        align-items: center;
+    }
+    .our-completed-project-sect .two-btn-div .btn{
+      margin-top: 15px;
+    }
+/* end home page  */
+
+/* start contact page  */
+.contact-us-hero-sect .contact-us-form-wraper form .contact-info-bg-wraper {
+   background-image: none;
+ }
+ .contact-us-hero-sect .contact-info-bg-wraper .full-circle-img-div img {
+    display: none;
+}
+/* end contact page  */
+
+ /*start pricing page  */
+
+ .pricing-and-plans-sect .item ul li {
+    text-align: center !important;
+}
+
+.pricing-and-plans-sect .item .twenty-per-page,
+.pricing-and-plans-sect .item .twenty-five-per-page {
+    flex-direction: column;
+    align-items: center;
+}
+
+.pricing-and-plans-sect .item hr {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+.satisfactory-sect .two-btn-div {
+    flex-direction: column;
+}
+.satisfactory-sect .two-btn-div .btn{
+    margin: 0px;
+    
+    max-width: 220px;
+    justify-content: center;
+    margin: auto !important;
+    margin-bottom: 10px !important;
+}
+/* end pricing page  */
+/* about us page ==== */
+.about-us-hero-sect .left-item .btn{
+    margin-top: 15px;
+  }
+/* end about us page === */
+ }
+ @media (max-width: 360px) {
+    /*==== home page css  */
+       .hero-section .top-baner .left-item .d_flex {
+        flex-direction: column;
+        align-items: center;
+    }
+    .read-testimonial-sect .right-item #talented-team .carousel-item .top-bg {
+       flex-direction: column;
+       align-items: center;
+    }
+ }
+ @media (max-width: 338px) {
+    /*==== home page css  */
+    .meet-our-expert-sect #demo {
+        min-height: 490px;
+     }
+ }

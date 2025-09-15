@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>previous-proj-one</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- custom css file  -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- responsive css file  -->
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+
+<body>
+
+
+
+    <!-- hero section  -->
+    <div class="hero-section bg-linear-grd-clr-three">
+        <div class="container">
+            <!-- header  -->
+            <header>
+                <div class="container">
+                    <div class="row">
+                        <nav class="navbar navbar-expand-lg">
+
+                            <a class="navbar-brand py-2 site-logo" href="home.html">
+                                <img src="assets/images/zaka-logo.png" alt="logo">
+                            </a>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapsibleNavbar">
+                                <span class="navbar-toggler-icon">
+                                    <!-- <i class="fas fa-bars"></i> -->
+                                </span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                                <ul class="navbar-nav ">
+
+                                </ul>
+                                <div class="header-btn">
+                                    <a data-bs-toggle="modal" data-bs-target="#header-modal-popup" href=""
+                                        class="place-ord-btn btn-linear-gradient-two">Order Now</a>
+                                    <!-- pop up Modal -->
+                                    <div class="modal" id="header-modal-popup">
+                                        <div class="modal-dialog">
+                                            <div class="modal-content btn-linear-gradient-two">
+                                                <div class="modal-header border-0">
+                                                    <button type="button" class="btn-close"
+                                                        data-bs-dismiss="modal"></button>
+                                                </div>
+                                                <h1 class="modal-title text-center mt-3 h1-head text-white">drop message
+                                                    </h2>
+
+                                                    <!-- pop up body -->
+                                                    <div class="modal-body">
+                                                        <div class="para-sty text-center">
+                                                            <p class="sm-title text-white"> For new projects or orders,
+                                                                please contact me first on</p>
+                                                            <a href="mailto:zakaullah000009@gmail.com">Gmail</a>
+                                                            <h1 class="h1-head">or</h1>
+                                                            <a href="https://www.fiverr.com/zakaullahkha771?public_mode=true"
+                                                                target="_blank">Fiverr</a>.
+                                                        </div>
+                                                    </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </header>
+
+        </div>
+    </div>
+    <!-- end hero section  -->
+
+    <div class="container">
+        <h1><b>Note</b></h1>
+        <h3 class="text-linear-gradient-two">
+            This is one of the previous projects I successfully completed while working with a company.
+            I handled the design and development from scratch, ensuring a fully responsive and professional website.
+        </h3>
+    </div>
+    <div class="container-fluid">
+        <h1><b>page one</b></h1>
+              <img src="assets/images/project10.png" alt="project image" class="img-fluid w-100">
+    </div>
+    <div class="container-fluid">
+        <h1><b>page two</b></h1>
+          <img src="assets/images/project9.png" alt="project image" class="img-fluid w-100">
+    </div>
+    <div class="container-fluid">
+        <h1><b>page three</b></h1>
+          <img src="assets/images/project8.png" alt="project image" class="img-fluid w-100">
+    </div>
+
+
+
+
+    <div class="color-bubbles">
+        <!-- Bubbles -->
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+    </div>
+
+
+
+    <!-- owl carousel cdn -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+    <!-- type writer  -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+
+    <!-- Bootstrap 5 JS and Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+
+
+
+    <script>
+        $(document).ready(function () {
+
+            // header pop up code 
+            $('#header-modal-popup').on('show.bs.modal', function () {
+                $(this).find('.modal-dialog').css({
+                    opacity: 0,
+                }).animate({
+                    opacity: 1
+                }, 1000);
+            });
+            // end header pop up code 
+
+            $('.owl-carousel').owlCarousel({
+                items: 4, // Default number of items
+                loop: true,
+                center: true,
+                margin: 10,
+                autoplay: true,
+                autoplayTimeout: 1500,
+                responsive: {
+                    0: {
+                        items: 1, // Mobile view par 1 item
+                        stagePadding: 0,
+                        margin: 10
+                    },
+                    600: {
+                        items: 3, // Tablet view par 2 items
+                        stagePadding: 0,
+                        margin: 30
+                    },
+                    1000: {
+                        items: 3 // Desktop view par 4 items
+                    }
+                }
+            });
+
+
+            // type writer code 
+            var options = {
+                strings: ["HTML Development", "CSS Styling", "Bootstrap Tailwind", "Bug Fixing & Optimization", "Responsive Web Design", "Figma to HTML Conversion", "PSD to HTML Conversion", "Modern Landing Pages"], // Your text strings to rewrite
+                typeSpeed: 100,
+                backSpeed: 100,
+                backDelay: 400,
+                startDelay: 400,
+                loop: true,
+                showCursor: false
+            };
+            var typed = new Typed("#typed-output", options);
+
+
+
+
+
+        });
+    </script>
+
+
+
+</body>
+
+</html>
